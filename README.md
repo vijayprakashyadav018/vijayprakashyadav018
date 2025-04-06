@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/vijayprakashyadav018/vijayprakashyadav018/blob/main/standard%20(4).gif" alt="MasterHead">
+<img src="https://github.com/vijayprakashyadav018/vijayprakashyadav018/blob/main/standard%20(3).gif" alt="MasterHead">
 </div> 
 <h1 align="center">Hi 👋, I'm Vijay Prakash Yadav</h1>
 <h3 align="center">A passionate Full Stack Java Developer
